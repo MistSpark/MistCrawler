@@ -14,7 +14,7 @@ MistCrawler is a Go script for checking the validity of URLs from a list and sav
 1. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/yourusername/MistCrawler.git](https://github.com/MistSpark/MistCrawler.git)
+   git clone https://github.com/yourusername/MistCrawler.git
 
 2. **Build**
    ```bash
